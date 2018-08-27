@@ -1,16 +1,5 @@
-**Gerardo Pedros @GerardoBici**
-
-*Yo uso habitualmente el de la estación de tren de Córdoba que es poco funcional pues no es el modelo de la U invertida y la horquilla de la bicicleta sufre mucho.*
-
-[Enlace](https://twitter.com/GerardoBici/status/1021311746106101760)
-
-
-SEM-Córdoba @CordobaSEM
-
-*Durante #sem2018 queremos mapear, entre otras cosas, todos los #aparcabicis de la ciudad ¿Nos ayudas? 
-Fotografia, pon la dirección y usa #MapeaMovilidad. Lo volcaremos con ayuda de @geoinquietosODB el 20/Sep. en Rectorado @Univcordoba*
-
-https://twitter.com/CordobaSEM/status/1022162262121963527
+1. **23 jul. Gerardo Pedros @GerardoBici**. *Yo uso habitualmente el de la estación de tren de Córdoba que es poco funcional pues no es el modelo de la U invertida y la horquilla de la bicicleta sufre mucho.* [Enlace](https://twitter.com/GerardoBici/status/1021311746106101760)
+2. **23 jul. SEM-Córdoba @CordobaSEM** *Durante #sem2018 queremos mapear, entre otras cosas, todos los #aparcabicis de la ciudad ¿Nos ayudas? Fotografia, pon la dirección y usa #MapeaMovilidad. Lo volcaremos con ayuda de @geoinquietosODB el 20/Sep. en Rectorado @Univcordoba* https://twitter.com/CordobaSEM/status/1022162262121963527
 
 **26 jul. - Eva Puche @evapuche8**
 
