@@ -72,3 +72,7 @@ https://twitter.com/aristotelesMV/status/1033271940809674752
 **27 ago. Patricio Soriano @SIGdeletras**
 Todos los edificios públicos deberían contar con su aparcabicis. Un buen ejemplo Centro Cívico Norte, Av. Cruz de Juárez #mapeamovilidad @CordobaSEM ¿Nos ayudáis a mapearlos @ParticipaCor?
 https://twitter.com/SIGdeletras/status/1034051298042241024
+
+**27 ago. PEDRO REINA RUIZ @Homoincognito***
+Dos aparcamientos de bicis en la calle Rodríguez Sánchez frente a Academia Británica #MapeaMovilidad con @openstreetmap de la #sem2018 @CordobaSEM @geoinquietosODB
+https://twitter.com/Homoincognito/status/1034101107931467778
