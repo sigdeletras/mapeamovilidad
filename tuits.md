@@ -8,7 +8,7 @@
 8. **25 ago. Patricio Soriano @SIGdeletras** *Y nueva señalización para bicis en el paso de peatones de la Avda Brillante a la altura del McDonald's #MapeaMovilidad #sem2018 @CordobaSEM* https://twitter.com/SIGdeletras/status/1033259371801788416
 9.  **25 ago. aristóteles moreno @aristotelesMV** *#MapeaMovilidad aparcabicis del Instituto de Agricultura Sostenible (Alameda del Obispo) y carril ANTI-bicis para llegar a él #sem2018* https://twitter.com/aristotelesMV/status/1033271940809674752
 10. **27 ago. Patricio Soriano @SIGdeletras** *Todos los edificios públicos deberían contar con su aparcabicis. Un buen ejemplo Centro Cívico Norte, Av. Cruz de Juárez #mapeamovilidad @CordobaSEM ¿Nos ayudáis a mapearlos @ParticipaCor?* https://twitter.com/SIGdeletras/status/1034051298042241024
-11. **27 ago. PEDRO REINA RUIZ @Homoincognito*** *Dos aparcamientos de bicis en la calle Rodríguez Sánchez frente a Academia Británica #MapeaMovilidad con @openstreetmap de la #sem2018 @CordobaSEM @geoinquietosODB* https://twitter.com/Homoincognito/status/1034101107931467778
+11. **27 ago. PEDRO REINA RUIZ @Homoincognito** *Dos aparcamientos de bicis en la calle Rodríguez Sánchez frente a Academia Británica #MapeaMovilidad con @openstreetmap de la #sem2018 @CordobaSEM @geoinquietosODB* https://twitter.com/Homoincognito/status/1034101107931467778
 12. 
 13.
 14.
