@@ -1,22 +1,28 @@
 Gerardo Pedros @GerardoBici
+
 *Yo uso habitualmente el de la estación de tren de Córdoba que es poco funcional pues no es el modelo de la U invertida y la horquilla de la bicicleta sufre mucho.*
+
 [Enlace](https://twitter.com/GerardoBici/status/1021311746106101760)
 
-https://twitter.com/CordobaSEM/status/1022162262121963527
+
 SEM-Córdoba @CordobaSEM
-Durante #sem2018 queremos mapear, entre otras cosas, todos los #aparcabicis de la ciudad ¿Nos ayudas? 
-Fotografia, pon la dirección y usa #MapeaMovilidad. 
-Lo volcaremos con ayuda de @geoinquietosODB el 20/Sep. en Rectorado @Univcordoba 
+
+*Durante #sem2018 queremos mapear, entre otras cosas, todos los #aparcabicis de la ciudad ¿Nos ayudas? 
+Fotografia, pon la dirección y usa #MapeaMovilidad. Lo volcaremos con ayuda de @geoinquietosODB el 20/Sep. en Rectorado @Univcordoba*
+
+https://twitter.com/CordobaSEM/status/1022162262121963527
+
+Eva Puche @evapuche8 26 jul.
+
+*#Aparcabicis Avda. de Libia esq. C/ Paco León #mapeamovilidad #cordobaODB #sem2018 #combinaymuevet*
 
 https://twitter.com/evapuche8/status/1022408315240947713
-Eva Puche @evapuche8
-26 jul.
-#Aparcabicis Avda. de Libia esq. C/ Paco León #mapeamovilidad #cordobaODB #sem2018 #combinaymuevete
 
-https://twitter.com/evapuche8/status/1031889723730681856
+
 Eva Puche @evapuche8
- 21 ago.
+21 ago.
 #MapeaMovilidad Aparcamiento ciclista en Avda Rabanales esq. C/ Poeta Fco. Arevalo #sem2018
+https://twitter.com/evapuche8/status/1031889723730681856
 
 https://twitter.com/evapuche8/status/1032621327151255553
 Eva Puche @evapuche8
