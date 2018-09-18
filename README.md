@@ -15,7 +15,7 @@ Visor
 
 - "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina"...
 - "oneway": "no", "yes" Si a los ciclistas se les permite circular en un único sentido de la ciclovía.
-- "surface": "asphalt",  "gravel", "paved" Describe la superficie
+- [https://wiki.openstreetmap.org/wiki/ES:Key:surface]("surface"): "asphalt",  "gravel", "paved" Describe la superficie
 - "segregated": "no"
 
 ## Etiquetas highway:cycleway
