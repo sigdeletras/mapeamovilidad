@@ -8,6 +8,15 @@ Visor
 
 ## Etiquetas highway:cycleway
 
+- "access": "public", "private", "yes", "no"
+- "addr:city": "Córdoba",
+- "addr:street": "Plaza de la Corredera",
+- ["bicycle_parking"](https://wiki.openstreetmap.org/wiki/ES:Key:bicycle_parking): "rack", "stands", "wall_loops"...Tipo de estacionamiento para bicicletas.
+- "capacity": "140", "75"
+- "covered": "no", "yes"
+- "name": "Estacion de Renfe", "Trasera Leroy merlin"
+- "website":  Podemos usarlo para enlazar con el tuit
+
 ## Etiquetas highway:cycleway
 
 - "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina"...
