@@ -12,14 +12,10 @@ Enlace con el [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?
 Visor
 
 ## Etiquetas highway:cycleway
-- "bicycle": "yes",
-- "foot": "designated",
-- "lit": "no", "yes",
-- "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina",
-- "oneway": "no", "yes"
-- "oneway:bicycle": "no", "yes"
-- "railway": "abandoned"
+
+- "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina"...
+- "oneway": "no", "yes" Si a los ciclistas se les permite circular en un único sentido de la ciclovía.
+- "surface": "asphalt",  "gravel", "paved" Describe la superficie
 - "segregated": "no"
-- "surface": "asphalt",  "gravel", "paved"
 
 ## Etiquetas highway:cycleway
