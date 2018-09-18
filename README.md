@@ -25,14 +25,12 @@ Visor
 - "addr:postcode": "14002",
 - "addr:street": "Plaza de la Almagra",
 - "name": "La Vuelta al Mundo",
+- "wheelchair": "limited"
 
 Propias de [highway:cycleway](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle)
-
 - "service:bicycle:rental": "yes",
 - "service:bicycle:repair": "yes",
 - "service:bicycle:retail": "yes",
-
-- "wheelchair": "limited"
 
 
 ## Etiquetas highway:cycleway
