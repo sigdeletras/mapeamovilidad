@@ -119,3 +119,13 @@
 119. 15 sept. Clara Guijarro ‏@clara_gj  #aparcabicis en el «parque del barco» (Acera Mira al Río) junto a Calahorra. #combinaymuevete #MapeaMovilidad @CordobaSEM @geoinquietosODB https://twitter.com/clara_gj/status/1040993193049894912
 120. 15 sept. Recycling Córdoba ‏@RecyclingCrdob1 #aparcabicis en la puerta del Open Arena #combinaymuevete #MapeaMovilidad @CordobaSEM @geoinquietosODB ...otra bici que me suena... ejem https://twitter.com/RecyclingCrdob1/status/1041028752745160704
 121. 15 sept.Clara Guijarro ‏@clara_gj #aparcabicis en la Plaza Jerónimo Páez (Museo Arqueológico) #combinaymuevete #MapeaMovilidad @CordobaSEM @geoinquietosODB https://twitter.com/clara_gj/status/1041055784300421121
+122. 16 sept. Clara Guijarro @clara_gj #aparcabicis en la Calle Sánchez de Feria (junto a Plaza de la Trinidad y Escuela de Arte Mateo Inurria) #combinaymuevete #MapeaMovilidad @CordobaSEM @geoinquietosODB https://twitter.com/clara_gj/status/1041309126515720192
+123. 16 sept. Patricio Soriano @SIGdeletras Un par de aparcamientos de bici  dentro del Centro Deportivo El Carmen #mapeamovilidad #SEM2018 – en Colegio Virgen del Carmen. https://twitter.com/SIGdeletras/status/1041380287492579331
+124. 18 sept. Patricio Soriano @SIGdeletras Vamos con el #mapeamovilidad del lunes. Colegio Público Torre Malmuerta Calle Cronista Salcedo Hierro #SEM2018 @geoinquietosODB https://twitter.com/SIGdeletras/status/1041675522005233665
+125. 18 sept. Patricio Soriano @SIGdeletras De los nuevos viales. Avda de los Molinos (Molinos Alta) llegando a Colón, casi frente a Torre Malmuerta #mapeamovilidad #SEM2018 https://twitter.com/SIGdeletras/status/1041677060069048320
+126. 18 sept.Patricio Soriano @SIGdeletras Y por último, justo en la esquina de la Torre Malmuerta (Avda Ollerías) #mapeamovilidad #SEM2018 https://twitter.com/SIGdeletras/status/1041677591080513539
+127. 18 sept. José Carlos Rico @jcricocordoba Plaza Cardenal Toledo. Uno de ellos doblado #mapeamovilidad #SEM2018 https://twitter.com/jcricocordoba/status/1041751667736240128
+128. 18 sept. Patricio Soriano @SIGdeletras Aparcamiento (con llave) dentro del IES Trassierra en Avenida Arroyo del Moro. Estos interiores son más difícil de documentar #SEM2018 #mapeamovilidad #iestrassierra https://twitter.com/SIGdeletras/status/1041925235350663168
+129. 19 sept. José María Martínez @jmmluna_sig Urbanización Parque de las Avenidas #mapeamovilidad #SEM2018 @geoinquietosODB @CordobaSEM https://twitter.com/jmmluna_sig/status/1041944106078031873
+
+**18 sept. Juan M. Molina @juanmateur He localizado unos cuandos #aparcabicis para #mapeamovilidad. Cada foto del álbum contiene su descripción, con el nombre de la vía y el GPS: https://t.co/Ms0wJt3E8K https://twitter.com/juanmateur/status/1041762943279489025**
