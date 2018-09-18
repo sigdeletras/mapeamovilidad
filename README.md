@@ -17,6 +17,24 @@ Visor
 - "name": "Estacion de Renfe", "Trasera Leroy merlin"
 - "website":  Podemos usarlo para enlazar con el tuit
 
+
+## Etiquetas highway:cycleway
+
+- "addr:city": "Córdoba",
+- "addr:housenumber": "7",
+- "addr:postcode": "14002",
+- "addr:street": "Plaza de la Almagra",
+- "name": "La Vuelta al Mundo",
+
+Propias de [highway:cycleway](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle)
+
+- "service:bicycle:rental": "yes",
+- "service:bicycle:repair": "yes",
+- "service:bicycle:retail": "yes",
+
+- "wheelchair": "limited"
+
+
 ## Etiquetas highway:cycleway
 
 - "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina"...
