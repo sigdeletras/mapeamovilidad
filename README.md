@@ -37,7 +37,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 
 1. Accede a la web [http://www.sigdeletras.com/mapeamovilidad/](http://www.sigdeletras.com/mapeamovilidad/)
 2. Selecciona del listado de tuits los puntos que vas a mapear
-3. [Inicia sesión](https://www.openstreetmap.org/login?referer=%2F) o [regístrate](https://www.openstreetmap.org/user/new) en la web de OpenStreetMap
+3. [Inicia sesión](https://www.openstreetmap.org/login?referer=%2F) o [regístrate](https://www.openstreetmap.org/user/new) en la web de OpenStreetMap. Ayuda [¿Cómo crear una cuenta de OSM?](https://learnosm.org/es/beginner/start-osm/#crear-una-cuenta-de-openstreetmap)
 4. Localiza la zona donde se encuentra el punto. Usa el buscador y las herramientas de zum.
   - Si no existe, añadelo y mete sus datos
   - Si existe actualiza la información.
@@ -50,14 +50,17 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 
 
 ## Etiqueta Aparcamiento de bicicletas (highway:cycleway)
-
-- "access": "public", "private", "yes", "no"
 - "addr:city": "Córdoba",
 - "addr:street": "Plaza de la Corredera",
-- ["bicycle_parking"](https://wiki.openstreetmap.org/wiki/ES:Key:bicycle_parking): "rack", "stands", "wall_loops"...Tipo de estacionamiento para bicicletas.
+- "name": "Estacion de Renfe", "Trasera Leroy merlin"
+- ["bicycle_parking"](https://wiki.openstreetmap.org/wiki/ES:Key:bicycle_parking): Tipo de estacionamiento para bicicletas.
+  - "wall_loops" Ancaldos al suelo para enganchar la rueda
+  - "stands" U invertida
+  - "shed" cobertizo cerrado hecho a la medida en el que se pueden almacenar muchas bicicletas,
+  - ...
+- "access": "public", "private", "yes", "no"
 - "capacity": "140", "75"
 - "covered": "no", "yes"
-- "name": "Estacion de Renfe", "Trasera Leroy merlin"
 - "website":  Podemos usarlo para enlazar con el tuit
 
 
