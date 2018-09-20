@@ -1,5 +1,7 @@
 # Taller #MapeaMovilidad
 
+![Mini](img/mini.png)
+
 ## Objetivo
 El Taller "#MapeaMovilidad" se engloba dentro de las actividades que se desarrollan en la Semana Europea de la Movilidad 2018 y consistirá en añadir a OpenStreepMap la información recopilada en Twitter bajo la etiqueta #MapeaMovilidad.
 
