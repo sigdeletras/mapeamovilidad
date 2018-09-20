@@ -1,4 +1,4 @@
-# Taller #MapeaMovilidad
+# TALLER #MAPEAMOVILIDAD. SEM2018 (20 Sep.)
 
 ![Mini](img/mini.png)
 
@@ -49,9 +49,13 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 - Enlace al [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
 
 
-## Etiqueta Aparcamiento de bicicletas (highway:cycleway)
+## Etiqueta Aparcamiento de bicicletas (amenity:bicycle_parking)
+
+Datos de dirección:
 - "addr:city": "Córdoba",
-- "addr:street": "Plaza de la Corredera",
+- "addr:street": "Plaza de la Corredera"
+
+Propias de [amenity:bicycle_parking](https://wiki.openstreetmap.org/wiki/Tag:amenity:bicycle_parking)
 - "name": "Estacion de Renfe", "Trasera Leroy merlin"
 - ["bicycle_parking"](https://wiki.openstreetmap.org/wiki/ES:Key:bicycle_parking): Tipo de estacionamiento para bicicletas.
   - "wall_loops" Ancaldos al suelo para enganchar la rueda
@@ -64,8 +68,9 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 - "website":  Podemos usarlo para enlazar con el tuit
 
 
-## Etiqueta tienda de bicicletas
+## Etiqueta tienda de bicicletas (shop=bicycle)
 
+Datos de dirección:
 - "addr:city": "Córdoba",
 - "addr:housenumber": "7",
 - "addr:postcode": "14002",
@@ -79,7 +84,7 @@ Propias de [highway:cycleway](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbic
 - "service:bicycle:retail": "yes",
 
 
-## Etiquetas Ciclovía (highway:cycleway)
+## Etiquetas Ciclovía ([highway:cycleway](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle))
 
 - "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina"...
 - "oneway": "no", "yes" Si a los ciclistas se les permite circular en un único sentido de la ciclovía.
