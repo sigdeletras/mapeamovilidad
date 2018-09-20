@@ -27,7 +27,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 
 ### Presentación taller
 
-- "Taller #Mapea Movilidad" Patricio Soriano. Geógrafo. @SIGdeletras y miembro del Grupo Geoinquietos Córdoba.
+- ["Taller #Mapea Movilidad"](https://www.slideshare.net/PatricioSoriano/taller-mapeamovilidad-semana-europea-de-la-movilidad-crdoba) Patricio Soriano. Geógrafo. @SIGdeletras y miembro del Grupo Geoinquietos Córdoba.
 
 ### Visor de mapas con los datos de OMS (117/09/2018)
 
