@@ -35,7 +35,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 
 ## Taller
 
-1. Accede a la web http://www.sigdeletras.com/mapeamovilidad/
+1. Accede a la web [http://www.sigdeletras.com/mapeamovilidad/](http://www.sigdeletras.com/mapeamovilidad/)
 2. Selecciona del listado de tuits los puntos que vas a mapear
 3. [Inicia sesión](https://www.openstreetmap.org/login?referer=%2F) o [regístrate](https://www.openstreetmap.org/user/new) en la web de OpenStreetMap
 4. Localiza la zona donde se encuentra el punto. Usa el buscador y las herramientas de zum.
