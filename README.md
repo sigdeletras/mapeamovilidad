@@ -41,7 +41,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 4. Localiza la zona donde se encuentra el punto. Usa el buscador y las herramientas de zum.
   - Si no existe, añadelo y mete sus datos
   - Si existe actualiza la información.
-5. Guarda los cambios describiendo el trabajo realziado. Añade la etiqueta #MapeaMovilidad
+5. Guarda los cambios describiendo el trabajo realizado. Añade la etiqueta #MapeaMovilidad.
 
 ## Listado de tuits
 
@@ -49,7 +49,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 - Enlace al [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
 
 
-## Etiqueta Aparcamiento de bicicletas (amenity:bicycle_parking)
+## Etiqueta Aparcamiento de bicicletas (amenity:bicycle_parking](https://wiki.openstreetmap.org/wiki/Tag:amenity:bicycle_parking)
 
 Datos de dirección:
 - "addr:city": "Córdoba",
@@ -68,7 +68,7 @@ Propias de [amenity:bicycle_parking](https://wiki.openstreetmap.org/wiki/Tag:ame
 - "website":  Podemos usarlo para enlazar con el tuit
 
 
-## Etiqueta tienda de bicicletas (shop=bicycle)
+## Etiqueta tienda de bicicletas ([shop=bicycle](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle))
 
 Datos de dirección:
 - "addr:city": "Córdoba",
@@ -78,7 +78,7 @@ Datos de dirección:
 - "name": "La Vuelta al Mundo",
 - "wheelchair": "limited"
 
-Propias de [highway:cycleway](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle)
+Propias de [shop=bicycle](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle)
 - "service:bicycle:rental": "yes",
 - "service:bicycle:repair": "yes",
 - "service:bicycle:retail": "yes",
