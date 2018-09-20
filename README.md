@@ -91,4 +91,8 @@ Propias de [shop=bicycle](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbicycle
 - ["surface"](https://wiki.openstreetmap.org/wiki/ES:Key:surface): "asphalt",  "gravel", "paved" Describe la superficie
 - "segregated": "no"
 
-
+# Documentos
+- [LearnOSM](http://learnosm.org/es/beginner/start-osm/) | Introducción a OpenStreetMap
+- [Videotutoriales de introducción a OSM](http://wiki.openstreetmap.org/wiki/ES:Video_tutorials)
+- [Map Features de OSM](http://wiki.openstreetmap.org/wiki/Map_Features) | Toda la lista de etiquetas de OSM
+ 
