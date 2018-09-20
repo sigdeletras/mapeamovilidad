@@ -190,5 +190,12 @@
 190. 17 sept. Juan M. Molina @juanmateur Este #aparcabicis está dentro del Colegio Cervantes, en Avda. Nuestra Señora de la Fuensanta. https://www.google.com/maps?q=loc:37.8823639,-4.7603972 https://photos.app.goo.gl/rnmHDJirJ165jyc3A
 191. 17 sept. Juan M. Molina @juanmateur #aparcabicis en el aparcamiento subterráneo del Mercadona de Avda. Barcelona, en calle Ronda de la Manca. https://www.google.com/maps?q=loc:37.8867888,-4.765775 https://photos.app.goo.gl/2WuKBqaS13jCjpMm6
 192. 18 sept. Juan M. Molina @juanmateur Otro #aparcabicis en la Plaza El Moreal: en Calle Periodista Eduardo Baro, a la altura del Pasaje Fraternidad. https://www.google.com/maps?q=loc:37.8776222,-4.7631667 https://photos.app.goo.gl/3Ka5P52LZmJvrnuN7
-193. 19 sept. 
-194. 19 sept. 
+193. 19 sept. ANTONIO FERNANDEZ @ntoniofernandez #mapeamovilidad #aparcabicis interior en Centro de Educación Vial https://twitter.com/ntoniofernandez/status/1042485034643582976
+194. 19 sept. ANTONIO FERNANDEZ @ntoniofernandez #mapeamovilidad en C/ Málaga se han ubicado 3 aparcamientos sueltos a lo largo de la calle https://twitter.com/ntoniofernandez/status/1042485428283170817
+195. 19 sept. ANTONIO FERNANDEZ @ntoniofernandez  #mapeamovilidad #aparcabicis en la puerta de la Escuela de Arte Dramático en la C/ Blanco Belmonte https://twitter.com/ntoniofernandez/status/1042485815199313920
+196. 20 sept. Gerardo Pedros @GerardoBici Aparcamiento Bicicletas con toldo en Rectorado de la @Univcordoba en Rectorado Avenida Medina Azahara. #mapeamovilidad @CordobaSEM
+197. 20 sept. Eva Puche @evapuche8 Unos tantos, otros tan pocos 🙄. Entrada centro Carlos Castilla del Pino #mapeamovilidad  https://twitter.com/evapuche8/status/1042679715251871744
+198. 20 sept. Patricio Soriano @SIGdeletras 2 aparcamientos "muy modernos" en Calle Policía Local Marisol Muñoz. Al norte de la C/ Pintora María Blandchard #mapeamovilidad  https://twitter.com/SIGdeletras/status/1042696500017602560
+199. 20 sept. Patricio Soriano @SIGdeletras Y en la misma calle Policía Local Marisol Muñoz pero al sur de la C/ Pintora María Blandchard #mapeamovilidad #SEM2018 https://twitter.com/SIGdeletras/status/1042697266652504064
+200. 20 sept. Patricio Soriano @SIGdeletras Triste #aparcabicis testimonial en el parking de los cines El Tablero #mapeamovilidad https://twitter.com/SIGdeletras/status/1042697718626439168 
+
