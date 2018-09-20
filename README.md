@@ -2,9 +2,13 @@
 
 Jueves , 20 de septiembre. 18.00h a 20.00h Taller #MapeaMovilidad con Geoinquietos . Lugar: Sala Prensa Rectorado. Avda. Medina Azahara. Participa desde tu cuenta de Twitter. @CordobaSEM @geoinquietosODB
 
+## Información SEM2018
+
+[Programación SEM2018 Córdoba](https://sem.cordoba.es/programacion/programacion.htm)
+
 ## Listado de tuits
 
-[Listado](tuis.md)
+[Listado](tuits.md/tuis.md)
 
 Enlace con el [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
 
