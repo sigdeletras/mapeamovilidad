@@ -4,17 +4,26 @@ Jueves , 20 de septiembre. 18.00h a 20.00h Taller #MapeaMovilidad con Geoinquiet
 
 ## Información SEM2018
 
-[Programación SEM2018 Córdoba](https://sem.cordoba.es/programacion/programacion.htm)
+- [Programación SEM2018 Córdoba](https://sem.cordoba.es/programacion/programacion.htm)
+
+## Páginas del Evento
+- Wiki Geoinquietos
+- Página Facebook
+
+## Presentación taller
+
+- "Taller #Mapea Movilidad" Patricio Soriano @sigdeletras Geoinquietos Córdoba
 
 ## Listado de tuits
 
-[Listado](tuits.md/tuis.md)
+- [Listado](tuits.md/tuis.md)
+- Enlace al [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
 
-Enlace con el [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
+## Visor de mapas con los datos de OMS (117/09/2018)
 
-Visor
+- [Enlacea GeoWE](http://bit.ly/mapeamovilidad_geowe)
 
-## Etiquetas highway:cycleway
+## Etiqueta Aparcamiento de bicicletas (highway:cycleway)
 
 - "access": "public", "private", "yes", "no"
 - "addr:city": "Córdoba",
@@ -26,7 +35,7 @@ Visor
 - "website":  Podemos usarlo para enlazar con el tuit
 
 
-## Etiquetas highway:cycleway
+## Etiqueta tienda de bicicletas (highway:cycleway)
 
 - "addr:city": "Córdoba",
 - "addr:housenumber": "7",
@@ -41,7 +50,7 @@ Propias de [highway:cycleway](https://wiki.openstreetmap.org/wiki/Tag:shop%3Dbic
 - "service:bicycle:retail": "yes",
 
 
-## Etiquetas highway:cycleway
+## Etiquetas Ciclovía (highway:cycleway)
 
 - "name": "Acera bici Gran Vía Parque a Medina Azahara", "Carril bici C/ Pablo Picasso", "Via Verde de la Campina"...
 - "oneway": "no", "yes" Si a los ciclistas se les permite circular en un único sentido de la ciclovía.
