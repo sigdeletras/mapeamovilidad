@@ -49,7 +49,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 - Enlace al [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
 
 
-## Etiqueta Aparcamiento de bicicletas (amenity:bicycle_parking](https://wiki.openstreetmap.org/wiki/Tag:amenity:bicycle_parking)
+## Etiqueta Aparcamiento de bicicletas ([amenity:bicycle_parking](https://wiki.openstreetmap.org/wiki/Tag:amenity:bicycle_parking))
 
 Datos de dirección:
 - "addr:city": "Córdoba",
