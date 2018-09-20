@@ -29,7 +29,7 @@ El taller está organizado por la Delegación de Movilidad del Ayuntamiento de C
 
 ## Listado de tuits
 
-- [Listado](twitter/tuis.md)
+- [Listado](twitter/tuits.md)
 - Enlace al [seguimiento del tuit #MapeaMovilidad](https://twitter.com/search?f=tweets&vertical=default&q=%23mapeamovilidad&src=typd&lang=es)
 
 ## Visor de mapas con los datos de OMS (117/09/2018)
