@@ -1,6 +1,9 @@
-# #MapeaMovilidad
+# Taler #MapeaMovilidad
 
 ## Objetivo
+El Taller "#MapeaMovilidad" se engloba dentro de las actividades que se desarrollan en la Semana Europea de la Movilidad 2018 y consistirá en añadir a OpenStreepMap la información recopilada en Twitter bajo la etiqueta #MapeaMovilidad.
+
+El taller está organizado por la Delegación de Movilidad del Ayuntamiento de Córdoba y está coordinado por Geoinquietos Córdoba. Colabora la Universidad de Córdoba.
 
 ## Lugar
 
@@ -20,7 +23,7 @@
 
 ## Presentación taller
 
-- "Taller #Mapea Movilidad" Patricio Soriano @sigdeletras Geoinquietos Córdoba
+- "Taller #Mapea Movilidad" Patricio Soriano. Geógrafo. @SIGdeletras y miembro del Grupo Geoinquietos Córdoba.
 
 ## Listado de tuits
 
