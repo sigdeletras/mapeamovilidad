@@ -189,3 +189,6 @@
 189. Otro #aparcabicis en la Plaza de la Juventud17 sept. Juan M. Molina @juanmateur , en el lado de la calle Francisco Pizarro. https://www.google.com/maps?q=loc:37.8840944,-4.7609194 https://photos.app.goo.gl/7z55ecXDzmtxdMCo8
 190. 17 sept. Juan M. Molina @juanmateur Este #aparcabicis está dentro del Colegio Cervantes, en Avda. Nuestra Señora de la Fuensanta. https://www.google.com/maps?q=loc:37.8823639,-4.7603972 https://photos.app.goo.gl/rnmHDJirJ165jyc3A
 191. 17 sept. Juan M. Molina @juanmateur #aparcabicis en el aparcamiento subterráneo del Mercadona de Avda. Barcelona, en calle Ronda de la Manca. https://www.google.com/maps?q=loc:37.8867888,-4.765775 https://photos.app.goo.gl/2WuKBqaS13jCjpMm6
+192. 18 sept. Juan M. Molina @juanmateur Otro #aparcabicis en la Plaza El Moreal: en Calle Periodista Eduardo Baro, a la altura del Pasaje Fraternidad. https://www.google.com/maps?q=loc:37.8776222,-4.7631667 https://photos.app.goo.gl/3Ka5P52LZmJvrnuN7
+193. 19 sept. 
+194. 19 sept. 
